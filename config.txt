@@ -1,6 +1,6 @@
-﻿token=NTA2ODM0MTEyMzE4MDEzNDQx.Dscu6g.fvgAiC4qdtzJ9t5Zj7Y5N9nAris
+token=NTA2ODM0MTEyMzE4MDEzNDQx.DsczEA.j5_YvsyZWEY1dm0M8VGGa79JDnI
 owner=435849478671433728
 prefix= .
-game= !thelp
+game= .help | Jona-Music
 stayinchannel=true
-songinstatus=true 
+songinstatus=false
